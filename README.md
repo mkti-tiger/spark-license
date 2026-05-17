@@ -111,7 +111,6 @@
 将来的にパスキーの量子耐性化等で統合可能性があります。
 
 - リポジトリ: [github.com/mkti-tiger/spark-processor](https://github.com/mkti-tiger/spark-processor)
-- ライセンス: CC0
 
 ## お問い合わせ
 
